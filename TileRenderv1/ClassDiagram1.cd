@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TileManagerNS.TileManager">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAABAAACAAAACAAEAAAgAIEAUAQ=</HashCode>
+      <FileName>TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileManagerNS.Tile">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAIAAQAAAAAgCBAACACAAEAAAAAABAAAQgAYBA=</HashCode>
+      <FileName>TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileManagerNS.TileLayer">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAJABACAQABABAAAASAEACAAAAAABFIAAEAIAQAQkBQ=</HashCode>
+      <FileName>TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileManagerNS.TileRef">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TileRef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileRenderv1.RenderTile">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAkBAAgAAEACAAAAAAAAAQAAAAAAAAAAAAwQ=</HashCode>
+      <FileName>RenderTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
